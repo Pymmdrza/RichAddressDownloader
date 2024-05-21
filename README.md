@@ -20,5 +20,5 @@ Rich Cryptocurrency Wallet Address Downloader (Auto Update) v1.0.3
 
 ## Download 
 
-- Rich Address Downloader v1.0.3 `.exe` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v1.0.3/Portable_RichAddrDownloader_1.0.3.exe) )
-- Rich Address Downloader v1.0.3 `.zip` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v1.0.3/Portable_RichAddrDownloader_1.0.3.zip) ) Password : `Mmdrza.Com`
+- Rich Address Downloader v1.0.3 `.exe` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v1.0.3/RichAddrDownloader_1.0.3.exe) )
+- Rich Address Downloader v1.0.3 `.zip` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v1.0.3/RichAddrDownloader_1.0.3.zip) ) Password : `Mmdrza.Com`
