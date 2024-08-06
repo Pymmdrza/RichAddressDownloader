@@ -1,3 +1,8 @@
+<!-- Begin SF Tag -->
+[![Download Rich Address Downloader](https://img.shields.io/sourceforge/dt/rich-address-downloader.svg)](https://sourceforge.net/projects/rich-address-downloader/files/latest/download)
+<!-- End SF Tag -->
+
+
 ![Rich Address Downloader](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/richAddressDownloader_HeaderMode1.png 'Rich Address Downloader')
 # Rich Address Downloader
 
@@ -23,6 +28,7 @@ Rich Cryptocurrency Wallet Address Downloader (Auto Update) v1.0.3
 
 ## Download 
 
+[![Download Rich Address Downloader](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/rich-address-downloader/files/latest/download)
 - ⬇️ Rich Address Downloader v1.0.3 `.exe` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v1.0.3/RichAddrDownloader_1.0.3.exe) )
 - ⬇️ Rich Address Downloader v1.0.3 `.zip` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v1.0.3/RichAddrDownloader_1.0.3.zip) ) Password : `Mmdrza.Com`
 
