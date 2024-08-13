@@ -3,7 +3,7 @@
 <!-- End SF Tag -->
 
 
-![Rich Address Downloader](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/richAddressDownloader_HeaderMode1.png 'Rich Address Downloader')
+![Rich Address Downloader](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/github_mode_transport.png 'Rich Address Wallet Downloader')
 # Rich Address Downloader
 
 Rich Cryptocurrency Wallet Address Downloader (Auto Update) v1.0.3
