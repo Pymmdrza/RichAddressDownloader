@@ -6,11 +6,11 @@
 ![Rich Address Downloader](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/github_mode_transport.png 'Rich Address Wallet Downloader')
 # Rich Address Downloader
 
-Rich Cryptocurrency Wallet Address Downloader (Auto Update) v1.0.3
+Rich Cryptocurrency Wallet Address Downloader (Auto Update) v2.0.1
 
 ---
-- The ability to download a collection of rich cryptocurrency addresses such as: Bitcoin(`p2pkh`, `p2sh`, `bech32`, `all` type address) & Ethereum, Tron, Litecoin, zCash.
-- Direct Download Compress ZIP File from `object.mmdrza.com`.
+- The ability to download a collection of rich cryptocurrency addresses such as: Bitcoin(`p2pkh`, `p2sh`, `bech32`, `all` type address) & Litecoin, Dogecoin , Dash, Bitcoin cash.
+- Direct Download Compress ZIP File from `Github`.
 - Show Time Latest Update Per File.
 - Fast and Exclusive Downloader.
 - Automatic update and manual update of data.
@@ -21,7 +21,7 @@ Rich Cryptocurrency Wallet Address Downloader (Auto Update) v1.0.3
 - The content of each address related file (`.txt`) is standard, that is, an address is inserted in each line of the Text file.
 - Password of all zipped files: `Mmdrza.Com`
 
-![Main screenshot from rich address downloader v1.0.3](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/Screenshot-main.webp 'Main screenshot from rich address downloader v1.0.3')
+![Main screenshot from rich address downloader v1.0.3](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/home_rich.png 'Main screenshot from rich address downloader v1.0.3')
 
 
 ---
@@ -29,8 +29,8 @@ Rich Cryptocurrency Wallet Address Downloader (Auto Update) v1.0.3
 ## Download 
 
 [![Download Rich Address Downloader](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/rich-address-downloader/files/latest/download)
-- ⬇️ Rich Address Downloader v1.0.3 `.exe` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v1.0.3/RichAddrDownloader_1.0.3.exe) )
-- ⬇️ Rich Address Downloader v1.0.3 `.zip` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v1.0.3/RichAddrDownloader_1.0.3.zip) ) Password : `Mmdrza.Com`
+- ⬇️ Rich Address Downloader v2.0.1 `.exe` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v2.0.1/RichAddrDownloader_2.0.1.exe) )
+- ⬇️ Rich Address Downloader v2.0.1 `.zip` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v2.0.1/RichAddrDownloader_2.0.1.zip) ) Password : `Mmdrza.Com`
 
 
 ✅ VirusTotal Scan Detail's Can Read On [HERE](https://github.com/Pymmdrza/RichAddressDownloader/wiki/Virus-Total-Scan-Release 'Wiki / VirusTotal Scan Release')
@@ -38,7 +38,7 @@ Rich Cryptocurrency Wallet Address Downloader (Auto Update) v1.0.3
 ---
 
 
-![screenshot dl status from rich address downloader v1.0.3](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/Screenshot-dl-status.webp 'screenshot dl status from rich address downloader v1.0.3')
+![screenshot setting from rich address downloader v1.0.3](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/setting.png 'screenshot setting from rich address downloader v1.0.3')
 
 
 ---
