@@ -21,7 +21,7 @@ Rich Cryptocurrency Wallet Address Downloader (Auto Update) v2.0.1
 - The content of each address related file (`.txt`) is standard, that is, an address is inserted in each line of the Text file.
 - Password of all zipped files: `Mmdrza.Com`
 
-![Main screenshot from rich address downloader v1.0.3](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/home_rich.png 'Main screenshot from rich address downloader v1.0.3')
+![Main screenshot from rich address downloader v2.0.1](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/home_rich.png 'Main screenshot from rich address downloader v2.0.1')
 
 
 ---
