@@ -1,7 +1,5 @@
 <!-- Begin SF Tag -->
-[![Download Rich Address Downloader](https://img.shields.io/sourceforge/dt/rich-address-downloader.svg)](https://sourceforge.net/projects/rich-address-downloader/files/latest/download)
-<!-- End SF Tag -->
-
+[![Download Rich Address Downloader](https://img.shields.io/sourceforge/dt/rich-address-downloader.svg)](https://sourceforge.net/projects/rich-address-downloader/files/latest/download) [![GitHub Repo stars](https://img.shields.io/github/stars/Pymmdrza/RichAddressDownloader?style=plastic&logo=github&logoSize=auto)]()
 
 ![Rich Address Downloader](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/github_mode_transport.png 'Rich Address Wallet Downloader')
 # Rich Address Downloader
