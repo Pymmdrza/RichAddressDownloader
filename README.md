@@ -1,7 +1,7 @@
 <!-- Begin SF Tag -->
 [![Download Rich Address Downloader](https://img.shields.io/sourceforge/dt/rich-address-downloader.svg)](https://sourceforge.net/projects/rich-address-downloader/files/latest/download) [![GitHub Repo stars](https://img.shields.io/github/stars/Pymmdrza/RichAddressDownloader?style=plastic&logo=github&logoSize=auto)]()
 
-![Rich Address Downloader](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/github_mode_transport.png 'Rich Address Wallet Downloader')
+[![Rich Address Downloader](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/github_mode_transport.png 'Rich Address Wallet Downloader')](/)
 # Rich Address Downloader
 
 <!-- Begin SourceForge Badges -->
@@ -41,5 +41,23 @@ Rich Cryptocurrency Wallet Address Downloader (Auto Update) v2.0.1
 
 ![Main screenshot from rich address downloader v2.0.1](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/home_rich.png 'Main screenshot from rich address downloader v2.0.1')
 
+---
+
+## Download 
+
+[![Download Rich Address Downloader](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/rich-address-downloader/files/latest/download)
+- ⬇️ Rich Address Downloader v2.0.1 `.exe` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v2.0.1/RichAddrDownloader_2.0.1.exe) )
+- ⬇️ Rich Address Downloader v2.0.1 `.zip` ( [Download](https://github.com/Pymmdrza/RichAddressDownloader/releases/download/v2.0.1/RichAddrDownloader_2.0.1.zip) ) Password : `Mmdrza.Com`
+
+
+✅ VirusTotal Scan Detail's Can Read On [HERE](https://github.com/Pymmdrza/RichAddressDownloader/wiki/Virus-Total-Scan-Release 'Wiki / VirusTotal Scan Release')
 
 ---
+
+![screenshot setting from rich address downloader v1.0.3](https://raw.githubusercontent.com/Pymmdrza/RichAddressDownloader/main/img/setting.png 'screenshot setting from rich address downloader v1.0.3')
+
+
+---
+
+- Programmer & Owner : [Pymmdrza](https://github.com/Pymmdrza 'Pymmdrza Github')
+- Official Website : [Mmdrza.Com](https://mmdrza.com 'Professional cryptocurrency recovery and flash tools')
