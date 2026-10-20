@@ -10,14 +10,14 @@
     <img
       src="https://b.sf-syn.com/badge_img/3770451/oss-rising-star-black"
       alt="SourceForge OSS Rising Star"
-      width="100"
+      width="128"
     />
   </a>
   <a href="https://sourceforge.net/projects/rich-address-downloader/">
     <img
       src="https://b.sf-syn.com/badge_img/3770451/oss-users-love-us-black"
       alt="SourceForge OSS Users Love Us"
-      width="100"
+      width="128"
     />
   </a>
 </p>
